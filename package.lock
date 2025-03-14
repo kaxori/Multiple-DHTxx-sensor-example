@@ -1,0 +1,9 @@
+sdk: ^2.0.0-alpha.150
+prefixes:
+  dhtxx: toit-dhtxx
+packages:
+  toit-dhtxx:
+    url: github.com/toitware/toit-dhtxx
+    name: dhtxx
+    version: 1.6.0
+    hash: 387e698ae220715bdbdb74989525a68618263a34
